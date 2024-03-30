@@ -1,4 +1,5 @@
-# Android device tree for samsung SM-A042F (a04e)
+# Device tree for samsung A04e
+device tree for samsung SM-A042F (a04e)
 
 ```
 #
@@ -8,3 +9,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+by @Sathya-github-del
+
+Guide: https://github.com/twrpdtgen/twrpdtgen
