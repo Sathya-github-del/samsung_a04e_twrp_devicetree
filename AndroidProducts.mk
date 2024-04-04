@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_a04e.mk
+    $(LOCAL_DIR)/twrp_a04e.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_a04e-user \
-    omni_a04e-userdebug \
-    omni_a04e-eng
+    twrp_a04e-user \
+    twrp_a04e-userdebug \
+    twrp_a04e-eng
